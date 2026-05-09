@@ -64,24 +64,6 @@
 
 </div>
 
----
-
-## 📌 Projetos em destaque
-
-### 🍬 Doces da Maloca - Sistema de Gestão
-Sistema para controle de vendas, produção, estoque e relatórios de uma empresa familiar de cocadas.
-
-### 🤖 Comando Elegante
-Plataforma SaaS para criação de assistentes personalizados para pequenos negócios.
-
-### 📊 Sistema CPA
-Sistema acadêmico para avaliações, dashboards e geração de relatórios institucionais.
-
-### 🧠 TCC - Sistemas Multiagentes
-Pesquisa sobre uma plataforma inteligente de gestão para pequenos negócios baseada em sistemas multiagentes.
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="center">
