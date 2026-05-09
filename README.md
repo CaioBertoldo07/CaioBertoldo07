@@ -47,19 +47,39 @@
 <div align="center">
 
   <img 
-    height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBertoldo07&theme=github-dark-blue&hide_border=true" 
+    width="70%" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=CaioBertoldo07&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt_BR" 
+    alt="GitHub Streak"
   />
 
 </div>
 
-## 💻 Linguagens mais usadas
+<br/>
 
 <div align="center">
 
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBertoldo07&layout=compact&theme=github_dark&hide_border=true" 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioBertoldo07&theme=github_dark" 
+    alt="Repositórios por linguagem"
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioBertoldo07&theme=github_dark" 
+    alt="Linguagens por commit"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img 
+    width="98%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioBertoldo07&theme=github_dark" 
+    alt="Resumo do perfil GitHub"
   />
 
 </div>
