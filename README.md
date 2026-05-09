@@ -4,7 +4,6 @@
 <p align="center">
   <strong>Engenharia da Computação | Desenvolvimento Web | IA Aplicada</strong>
 </p>
----
 
 ## 🚀 Sobre mim
 
