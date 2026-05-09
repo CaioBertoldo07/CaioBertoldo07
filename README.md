@@ -48,12 +48,18 @@
 
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=CaioBertoldo07&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBertoldo07&theme=github-dark-blue&hide_border=true" 
   />
+
+</div>
+
+## 💻 Linguagens mais usadas
+
+<div align="center">
 
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBertoldo07&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBertoldo07&layout=compact&theme=github_dark&hide_border=true" 
   />
 
 </div>
