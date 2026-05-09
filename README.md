@@ -5,7 +5,7 @@
   <strong>Engenharia da Computação | Desenvolvimento Web | IA Aplicada</strong>
 </p>
 
-## 📊 Estatísticas do GitHub
+## 📊 Métricas e atividade no GitHub
 
 <div align="center">
 
