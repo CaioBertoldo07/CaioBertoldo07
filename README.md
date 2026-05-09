@@ -52,6 +52,7 @@
   />
 
 </div>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
