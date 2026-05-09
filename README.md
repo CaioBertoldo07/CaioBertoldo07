@@ -10,9 +10,15 @@
 <div align="center">
 
   <img 
-    width="98%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioBertoldo07&theme=github_dark" 
-    alt="Resumo do perfil GitHub"
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioBertoldo07&theme=github_dark" 
+    alt="Estatísticas gerais"
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioBertoldo07&theme=github_dark&utcOffset=-4" 
+    alt="Horário produtivo"
   />
 
 </div>
@@ -40,15 +46,9 @@
 <div align="center">
 
   <img 
-    width="49%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioBertoldo07&theme=github_dark" 
-    alt="Estatísticas gerais"
-  />
-
-  <img 
-    width="49%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioBertoldo07&theme=github_dark&utcOffset=-4" 
-    alt="Horário produtivo"
+    width="98%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioBertoldo07&theme=github_dark" 
+    alt="Resumo do perfil GitHub"
   />
 
 </div>
