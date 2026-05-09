@@ -10,9 +10,9 @@
 <div align="center">
 
   <img 
-    width="70%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=CaioBertoldo07&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt_BR" 
-    alt="GitHub Streak"
+    width="98%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioBertoldo07&theme=github_dark" 
+    alt="Resumo do perfil GitHub"
   />
 
 </div>
@@ -40,13 +40,18 @@
 <div align="center">
 
   <img 
-    width="98%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioBertoldo07&theme=github_dark" 
-    alt="Resumo do perfil GitHub"
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioBertoldo07&theme=github_dark" 
+    alt="Estatísticas gerais"
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioBertoldo07&theme=github_dark&utcOffset=-4" 
+    alt="Horário produtivo"
   />
 
 </div>
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
