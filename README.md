@@ -46,15 +46,15 @@
 
 <div align="center">
 
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api?username=CaioBertoldo07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=CaioBertoldo07&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" 
+  />
 
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBertoldo07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBertoldo07&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" 
+  />
 
 </div>
 
