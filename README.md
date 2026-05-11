@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Caio%20Bertoldo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-<h1 align="center">Caio Bertoldo</h1>
 
 <p align="center">
   <strong>Engenharia da Computação | Desenvolvimento Web | IA Aplicada</strong>
